@@ -2,7 +2,11 @@
 title: "Uvas"
 author: "Benjamin Lira"
 date: "3/27/2020"
+<<<<<<< HEAD
 output: github_document
+=======
+output: html_document
+>>>>>>> ba22be8f282e573a34e0c6ceeeb9c455d4850764
 ---
 # Introducción
 En este documento reportaré el procedimiento seguido para crear un algoritmo que prediga la fecha de la cosecha tomando en cuenta la variedad, carga y fecha de aplicación de cianamida, tomando en cuenta datos de clima histórico.
